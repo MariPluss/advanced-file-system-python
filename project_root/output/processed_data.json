@@ -1,0 +1,16 @@
+[
+    {
+        "filename": "latin1_file_processed.txt",
+        "original_text": "bONJOUR, ÇA VA?",
+        "swapped_text": "Bonjour, ça va?",
+        "size_bytes": 16,
+        "last_modified": "2025-05-16T18:52:43.867635"
+    },
+    {
+        "filename": "utf8_file_processed.txt",
+        "original_text": "пРИВЕТ, КАК ДЕЛА?",
+        "swapped_text": "Привет, как дела?",
+        "size_bytes": 30,
+        "last_modified": "2025-05-16T18:52:43.868635"
+    }
+]

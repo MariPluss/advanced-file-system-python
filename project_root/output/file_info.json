@@ -1,0 +1,16 @@
+[
+    {
+        "filename": "latin1_file_processed.txt",
+        "full_path": "C:\\Users\\User\\Mari\\python\\file_project\\project_root\\data\\processed\\latin1_file_processed.txt",
+        "size": 16,
+        "created": "2025-05-16T18:39:53.815277",
+        "modified": "2025-05-16T18:52:43.867635"
+    },
+    {
+        "filename": "utf8_file_processed.txt",
+        "full_path": "C:\\Users\\User\\Mari\\python\\file_project\\project_root\\data\\processed\\utf8_file_processed.txt",
+        "size": 30,
+        "created": "2025-05-16T18:39:53.824401",
+        "modified": "2025-05-16T18:52:43.868635"
+    }
+]
